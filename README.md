@@ -1,6 +1,1 @@
-# WEBDESIGN_PROJECTS
-WEBDESIGN_PROJECTS
-51cc91b873e68a7fac218db1bafb31c6c6c4ed89
-20e43f4c302044d3631ef3b2996957fcae17d627
-95108f8fc9d357ea2a7cf9e9ca89b2387c0d6985
-
+# https://app.pluralsight.com/paths/skill/building-web-applications-with-react
